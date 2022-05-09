@@ -1,4 +1,4 @@
-# Tracking the Vespertilionid Family of Bats
+# Tracking the Vespertilionidae Family of Bats
 
 ## Udacity Data Engineering Nanodegree Capstone Project
 
